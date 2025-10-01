@@ -1,3 +1,49 @@
-p{
-    color:red;
+body{
+  align-content:center;
+  justify-content: center;
+}
+.login{
+  height:250px;
+  width:200px;
+  border-color: black;
+  border-radius: 2px solid black;
+  justify-content: center;
+  align-content: center;
+  border-radius: 10px solid black;
+
+}
+.l1{
+ height:250px;
+ width:200px;
+ 
+   
+}
+#l11{
+  animation-name: none;
+  animation-direction: alternate-reverse;
+
+}
+#l22{
+ padding:20px;
+
+}
+#l23{
+
+}
+#l24{
+
+}
+#l25{
+  padding:20px;
+  margin-bottom:20px;
+
+}
+#b1{
+ margin-top: 30px;
+ padding:9px  ;
+
+}
+#b2{
+margin-top: 30px;
+ padding:9px;
 }
